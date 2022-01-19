@@ -1,3 +1,4 @@
+// Week 2 Lab Question 3
 public class CurrentTime {
     public static void main(String[] args) {
         long totalMilliseconds = System.currentTimeMillis();
