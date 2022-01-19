@@ -25,6 +25,6 @@ public class Average {
             System.out.printf("%.1f ", numbers[i]);
         }
         System.out.printf("is %.1f\n", sum / 3);
-
+        input.close();
     }
 }
